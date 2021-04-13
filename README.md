@@ -1,11 +1,11 @@
 ## Hi there :wave:
 
 
-I'm **Rohit Aggarwal** :man_technologist: working as a Lead Engineer :nerd_face: at [ChargePoint, Pvt. Ltd.](https://www.chargepoint.com/) :electric_plug::car:
+I'm **Rohit Aggarwal** :man_technologist: working as a Staff Engineer :nerd_face: at [Tekion Corp.](https://www.tekion.com/) :car:
 
 
-- :man_office_worker: Currently working on refactoring and scaling up existing platform
-- :thinking: Currently learning Docker + Kubernetes, Java and NodeJS
+- :man_office_worker: Currently working on refactoring, consolidating and scaling up existing platform
+- :thinking: Trying to get my hands dirty with Devops, especially Kubernetes and Terraform
 - :eyes: Looking to collaborate on Open source libraries / applications
 
 
@@ -21,8 +21,8 @@ I'm **Rohit Aggarwal** :man_technologist: working as a Lead Engineer :nerd_face:
 > :zap: Fun fact about me, I like to show-off :laughing: :smirk: 
 
 
-[![AWS Certified Developer Associate](https://raw.githubusercontent.com/rohit-aggarwal-cpi/rohit-aggarwal-cpi/master/images/aws-certified-developer-associate.png)](https://www.youracclaim.com/badges/a0be97a5-fa06-4ab1-9ab8-894331303b50)
-[![AWS Certified Cloud Practioner](https://raw.githubusercontent.com/rohit-aggarwal-cpi/rohit-aggarwal-cpi/master/images/aws-certified-cloud-practitioner.png)](https://www.youracclaim.com/badges/9f6f3f42-2324-465f-9843-0df9fb5a284f)
-[![MongoDB Certified DBA Associate](https://raw.githubusercontent.com/rohit-aggarwal-cpi/rohit-aggarwal-cpi/master/images/mongodb-certified-dba.png)](https://university.mongodb.com/certification/display_certificate?csrfmiddlewaretoken=nv2uqfN4fOdpK9pWiRxOZ2u15THAu8mr82iaez9ctD9IrVPqpGshIGmQo5SR1YpE&license1=843&license2=548&license3=217)
-[![MongoDB Certified Developer Associate](https://raw.githubusercontent.com/rohit-aggarwal-cpi/rohit-aggarwal-cpi/master/images/mongodb-certified-dev.png)](https://university.mongodb.com/certification/display_certificate?csrfmiddlewaretoken=RpKaSBwO3kFHfGxHGAHR82WrciWX3QDNNh40rkHRRHy937iOATeuw8jrVGhReRCc&license1=159&license2=937&license3=304)
-[![CodeChef Certified DSA Programme - Foundation](https://raw.githubusercontent.com/rohit-aggarwal-cpi/rohit-aggarwal-cpi/master/images/codechef-certified-dsa.png)](https://www.codechef.com/certificates/public/c167747)
+[![AWS Certified Developer Associate](https://raw.githubusercontent.com/rohit-agg/rohit-agg/master/images/aws-certified-developer-associate.png)](https://www.youracclaim.com/badges/a0be97a5-fa06-4ab1-9ab8-894331303b50)
+[![AWS Certified Cloud Practioner](https://raw.githubusercontent.com/rohit-agg/rohit-agg/master/images/aws-certified-cloud-practitioner.png)](https://www.youracclaim.com/badges/9f6f3f42-2324-465f-9843-0df9fb5a284f)
+[![MongoDB Certified DBA Associate](https://raw.githubusercontent.com/rohit-agg/rohit-agg/master/images/mongodb-certified-dba.png)](https://university.mongodb.com/certification/display_certificate?csrfmiddlewaretoken=nv2uqfN4fOdpK9pWiRxOZ2u15THAu8mr82iaez9ctD9IrVPqpGshIGmQo5SR1YpE&license1=843&license2=548&license3=217)
+[![MongoDB Certified Developer Associate](https://raw.githubusercontent.com/rohit-agg/rohit-agg/master/images/mongodb-certified-dev.png)](https://university.mongodb.com/certification/display_certificate?csrfmiddlewaretoken=RpKaSBwO3kFHfGxHGAHR82WrciWX3QDNNh40rkHRRHy937iOATeuw8jrVGhReRCc&license1=159&license2=937&license3=304)
+[![CodeChef Certified DSA Programme - Foundation](https://raw.githubusercontent.com/rohit-agg/rohit-agg/master/images/codechef-certified-dsa.png)](https://www.codechef.com/certificates/public/c167747)
