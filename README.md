@@ -1,10 +1,10 @@
 ## Hi there :wave:
 
 
-I'm **Rohit Aggarwal** :man_technologist: working as a Staff Engineer :nerd_face: at [Tekion Corp.](https://www.tekion.com/) :car:
+I'm **Rohit Aggarwal** :man_technologist: working as the Director, Engineering :nerd_face: at [Shiprocket](https://www.shiprocket.in/) :ship:
 
 
-- :man_office_worker: Currently working on refactoring, consolidating and scaling up existing platform
+- :man_office_worker: Architecting and managing the next generation of products for the organization
 - :thinking: Trying to get my hands dirty with Devops, especially Kubernetes and Terraform
 - :eyes: Looking to collaborate on Open source libraries / applications
 
