@@ -1,7 +1,7 @@
 ## Hi there :wave:
 
 
-I'm **Rohit Aggarwal** :man_technologist: working as the VP, Engineering :nerd_face: at [Yatra Freight](https://www.yatrafreight.com/) :ocean:
+I'm **Rohit Aggarwal** :man_technologist: working as the Principal Engineer :nerd_face: at [PokerBaazi](https://www.pokerbaazi.com/) ♠️
 
 
 - :man_office_worker: Architecting and managing the next generation of products for the organization
